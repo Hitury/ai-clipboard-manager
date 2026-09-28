@@ -85,7 +85,7 @@ mod tests {
     use super::Category::{self, *};
 
     #[test]
-    fn detectsss_categories() {
+    fn detects_categories() {
         let cases = [
             ("https://example.com/a?b=1", Link),
             ("dev@example.org", Email),
