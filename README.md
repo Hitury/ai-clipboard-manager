@@ -1,0 +1,1 @@
+# Een clipbord beheerder die clipboard data opslaat en organiseert.
