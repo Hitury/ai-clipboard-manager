@@ -1,1 +1,0 @@
-Build a clean, slate design clipboard manager in this project directory, that organizes clipboard data in different categories. Make it a terminal ui app using ratatui. Make sure it maintains clean code structure.
